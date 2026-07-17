@@ -4,11 +4,6 @@ This course project used 3 buttons, 4 resistors set up as a 1/2/4/8 resistance r
 
 Note that this repository only contains the main files. 
 
-A Note
-<img width="1290" height="2796" alt="1765596265 03153" src="https://github.com/user-attachments/assets/5ae116e5-cd72-4a27-b083-2706429a9f4e" />
-
-B Note
-<img width="1290" height="2796" alt="1765596268 722087" src="https://github.com/user-attachments/assets/db3f1281-e8d9-4bf6-82b6-034d97eaf380" />
-
-C Note
-<img width="1290" height="2796" alt="1765596272 18686" src="https://github.com/user-attachments/assets/bd586984-981b-4aad-8b39-4d18c1b30cb9" />
+<img width="2796" height="1290" alt="1765596272 18686" src="https://github.com/user-attachments/assets/a43fe60f-95cf-47a3-b48e-1ac61b3d2b03" />
+<img width="2796" height="1290" alt="1765596265 03153" src="https://github.com/user-attachments/assets/66c08275-cd8c-488a-b46c-34601cb29f3f" />
+<img width="2796" height="1290" alt="1765596268 722087" src="https://github.com/user-attachments/assets/3fb7fc97-688f-44cd-85b0-6aa10da37abb" />
